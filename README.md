@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Im currently working on a CRM for Xbox Game Testing.<br>🌱 I’m currently learning more about Javascript and Electron.<br>
+🔭 Im currently working on a CRM for Xbox Game Testing.
+
 
 
 ## 🌐 Socials:
